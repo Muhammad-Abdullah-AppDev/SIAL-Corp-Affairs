@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270261376319",
+    "project_id": "sialapp",
+    "storage_bucket": "sialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270261376319:android:875b0dda1bc19af2e36f8a",
+        "android_client_info": {
+          "package_name": "com.sialkot.sial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEdMR65-0GLfPYdcR2nnrFoVgIgKgRHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
